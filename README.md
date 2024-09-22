@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GABlane
 - 👀 I’m interested in learning a lot and making projects that helps people
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on making the university-finder
-- 📫 How to reach me through fb and ig
+- 📫 How to reach me through fb and ig at @jgofiangga
 - 😄 Pronouns: he
 - ⚡ Fun fact: good luck
 
